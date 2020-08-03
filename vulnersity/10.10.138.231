@@ -1,3 +1,0 @@
-# Nmap 7.80 scan initiated Fri Jul 31 13:45:23 2020 as: nmap -sV -o 10.10.138.231
-WARNING: No targets were specified, so 0 hosts scanned.
-# Nmap done at Fri Jul 31 13:45:23 2020 -- 0 IP addresses (0 hosts up) scanned in 0.43 seconds
